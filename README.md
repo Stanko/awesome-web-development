@@ -2,6 +2,12 @@
 
 List of useful articles and libraries for web development (basically links from our company slack dev channel)
 
+## Table of contents
+* [CSS (SASS, PostCSS...)](#user-content-css-sass-postcss)
+* [JavaScript](#user-content-javascript)
+    * [React](#user-content-react)
+    * [Angular](#user-content-angular)
+
 ## CSS (SASS, PostCSS...)
 
 | Title / Link  | Description   | Tags         |

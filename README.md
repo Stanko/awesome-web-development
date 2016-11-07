@@ -23,6 +23,7 @@ List of useful articles and libraries for web development (basically links from 
 
 | Title / Link  | Description   | Tags         |
 | ------------- |:------------: |------------: |
+| [Understanding Redux Middleware](https://github.com/Stanko/awesome-web-development) | | Redux, Middleware |
 
 ### Angular
 

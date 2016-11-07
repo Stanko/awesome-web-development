@@ -2,6 +2,15 @@
 
 List of useful articles and libraries for web development (basically links from our company slack dev channel)
 
+## Contributing 
+
+Add a line to the table in the following format:
+```markdown
+| [Title](Link) | Description | Tags, Separated, By, Comma |
+```
+
+If you decide to add a new category, please add it to the table of contents as well. Thanks!
+
 ## Table of contents
 * [CSS (SASS, PostCSS...)](#user-content-css-sass-postcss)
 * [JavaScript](#user-content-javascript)

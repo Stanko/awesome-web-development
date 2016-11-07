@@ -16,6 +16,8 @@ If you decide to add a new category, please add it to the table of contents as w
 * [JavaScript](#user-content-javascript)
     * [React](#user-content-react)
     * [Angular](#user-content-angular)
+    * [Libraries](#user-content-libraries)
+* [Git](#user-content-git)
 
 ## CSS (SASS, PostCSS...)
 
@@ -40,3 +42,15 @@ If you decide to add a new category, please add it to the table of contents as w
 
 | Title / Link  | Description   | Tags         |
 | ------------- | ------------  | -----------: |
+
+### Libraries
+
+| Title / Link  | Description   | Tags         |
+| ------------- | ------------  | -----------: |
+| [Bowser](https://github.com/ded/bowser) | A Browser detector (detects browser, device, version...) | Browser |
+
+## Git
+
+| Title / Link  | Description   | Tags         |
+| ------------- | ------------  | -----------: |
+| [Git from the inside out](https://codewords.recurse.com/issues/two/git-from-the-inside-out) | Explains how Git works | Git |

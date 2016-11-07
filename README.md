@@ -33,6 +33,7 @@ If you decide to add a new category, please add it to the table of contents as w
 
 | Title / Link  | Description   | Tags         |
 | ------------- |:------------: |------------: |
+| [Awesome React](https://github.com/enaqx/awesome-react) | Link to the similiar list, focused on the React only | React, Awesome |
 | [Understanding Redux Middleware](https://github.com/Stanko/awesome-web-development) | | Redux, Middleware |
 
 ### Angular

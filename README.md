@@ -30,6 +30,7 @@ If you decide to add a new category, please add it to the table of contents as w
 
 | Title / Link  | Description   | Tags         |
 | ------------- | ------------  | -----------: |
+| [You don't know JavaScript](https://github.com/getify/You-Dont-Know-JS) | One of the best books for JS | Books, JS |
 
 ### React
 

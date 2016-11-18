@@ -46,6 +46,7 @@ If you decide to add a new category, please add it to the table of contents as w
 
 | Title / Link  | Description   | Tags         |
 | ------------- | ------------  | -----------: |
+| [Tree view] (https://github.com/sutija/angular-2-tree-view) | Tree view of nested arrays | Angular 2, nested, component |
 
 ### Libraries
 

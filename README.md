@@ -41,9 +41,10 @@ If you decide to add a new category, please add it to the table of contents as w
 | ------------- | ------------  | -----------: |
 | [Awesome React](https://github.com/enaqx/awesome-react) | Link to the similiar list, focused on the React only | React, Awesome |
 | [Neo](https://github.com/mozilla/neo) | React app generator by Mozilla | React, Generator |
+| [Getting started with Redux](https://egghead.io/courses/getting-started-with-redux) | Best place to start with Redux | Redux, React |
 | [Understanding Redux Middleware](https://github.com/Stanko/awesome-web-development) | | Redux, Middleware |
-| (Draft.js)(https://facebook.github.io/draft-js/) | Rich Text Editor Framework for React | React, Editor | 
-| [A Wysiwyg Built on ReactJS and DraftJS](https://jpuri.github.io/react-draft-wysiwyg/) | | React, WYSIWYG |
+| [Draft.js](https://facebook.github.io/draft-js/) | Rich Text Editor Framework for React | React, Editor | 
+| [React Draft Wysiwyg](https://jpuri.github.io/react-draft-wysiwyg/) | A Wysiwyg Built on ReactJS and DraftJS | React, WYSIWYG |
 
 
 ### Angular

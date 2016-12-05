@@ -35,7 +35,7 @@ If you decide to add a new category, please add it to the table of contents as w
 | [You don't know JavaScript](https://github.com/getify/You-Dont-Know-JS) | One of the best books for JS | Books, JS |
 | [JavaScript books by Dr. Axel Rauschmayer](http://exploringjs.com/) | 4 books - Speaking JavaScript, Exploring ES6, Exploring ES2016 and ES2017, Setting up ES6 | Books, JS |
 | [Webpack Dashboard](https://github.com/FormidableLabs/webpack-dashboard) | A CLI dashboard for your webpack dev server | Webpack |
-| [JS Animation Engine](http://thednp.github.io/kute.js/index.html) | | Animation, SVG |
+| [JS Animation Engine](http://thednp.github.io/kute.js/index.html) | Source on [Github](https://github.com/thednp/kute.js) | Animation, SVG |
 
 ### React
 

@@ -19,6 +19,7 @@ If you decide to add a new category, please add it to the table of contents as w
     * [Libraries](#user-content-libraries)
 * [Git](#user-content-git)
 * [Environment](#user-content-environment)
+* [Environment](#user-content-other)
 
 ## CSS (SASS, PostCSS...)
 
@@ -72,4 +73,11 @@ If you decide to add a new category, please add it to the table of contents as w
 
 | Title / Link  | Description   | Tags         |
 | ------------- | ------------  | -----------: |
-| [ngrok](https://ngrok.com) | Secure tunnels to localhost | remote|
+| [ngrok](https://ngrok.com) | Secure tunnels to localhost | Remote |
+
+## Other
+
+| Title / Link  | Description   | Tags         |
+| ------------- | ------------  | -----------: |
+| [Launchaco](launchaco.com/build/) | Instantly generate a responsive, free, landing page  | Site, Template |
+

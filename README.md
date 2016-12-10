@@ -19,7 +19,7 @@ If you decide to add a new category, please add it to the table of contents as w
     * [Libraries](#user-content-libraries)
 * [Git](#user-content-git)
 * [Environment](#user-content-environment)
-* [Environment](#user-content-other)
+* [Other](#user-content-other)
 
 ## CSS (SASS, PostCSS...)
 

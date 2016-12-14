@@ -28,6 +28,7 @@ If you decide to add a new category, please add it to the table of contents as w
 | [@supports will change your life](https://www.lottejackson.com/learning/supports-will-change-your-life) | | CSS |
 | [10 principles for smooth web animations](https://blog.gyrosco.pe/smooth-css-animations-7d8ffc2c1d29#.iymened8w) | | CSS, Animation |
 | [GPU Animation: Doing It Right](https://www.smashingmagazine.com/2016/12/gpu-animation-doing-it-right/) | | CSS, Animation | 
+| [The 100% correct way to do CSS breakpoints](https://medium.freecodecamp.com/the-100-correct-way-to-do-css-breakpoints-88d6a5ba1862#.e5ohzr4tw) | | CSS, Breakpoints |
 
 ## Javascript
 

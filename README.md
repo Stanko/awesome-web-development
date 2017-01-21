@@ -28,7 +28,7 @@ If you decide to add a new category, please add it to the table of contents as w
 | [@supports will change your life](https://www.lottejackson.com/learning/supports-will-change-your-life) | | CSS |
 | [10 principles for smooth web animations](https://blog.gyrosco.pe/smooth-css-animations-7d8ffc2c1d29#.iymened8w) | | CSS, Animation |
 | [GPU Animation: Doing It Right](https://www.smashingmagazine.com/2016/12/gpu-animation-doing-it-right/) | | CSS, Animation | 
-| [The 100% correct way to do CSS breakpoints](https://medium.freecodecamp.com/the-100-correct-way-to-do-css-breakpoints-88d6a5ba1862#.e5ohzr4tw) | | CSS, Breakpoints |
+| [The 100% correct way to do CSS breakpoints](https://medium.freecodecamp.com/the-100-correct-way-to-do-css-breakpoints-88d6a5ba1862#.e5ohzr4tw) | | CSS, Breakpoints | 
 
 ## Javascript
 
@@ -38,6 +38,7 @@ If you decide to add a new category, please add it to the table of contents as w
 | [JavaScript books by Dr. Axel Rauschmayer](http://exploringjs.com/) | 4 books - Speaking JavaScript, Exploring ES6, Exploring ES2016 and ES2017, Setting up ES6 | Books, JS |
 | [Webpack Dashboard](https://github.com/FormidableLabs/webpack-dashboard) | A CLI dashboard for your webpack dev server | Webpack |
 | [KUTE.js](http://thednp.github.io/kute.js/index.html) | JS Animation Engine. Source on [Github](https://github.com/thednp/kute.js) | Animation, SVG |
+| [10 Interview Questions Every JavaScript Developer Should Know](https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95#.euo4etsv2) | Great article | JS, Interview |
 
 ### React
 

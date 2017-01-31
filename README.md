@@ -35,6 +35,7 @@ If you decide to add a new category, please add it to the table of contents as w
 | Title / Link  | Description   | Tags         |
 | ------------- | ------------  | -----------: |
 | [You don't know JavaScript](https://github.com/getify/You-Dont-Know-JS) | One of the best books for JS | Books, JS |
+| [Front-End Developer Handbook 2017](https://www.gitbook.com/book/frontendmasters/front-end-handbook-2017/details) | This is a guide that anyone could use to learn about the practice of front-end development. | JS, FrontEnd, Books |
 | [JavaScript books by Dr. Axel Rauschmayer](http://exploringjs.com/) | 4 books - Speaking JavaScript, Exploring ES6, Exploring ES2016 and ES2017, Setting up ES6 | Books, JS |
 | [Webpack Dashboard](https://github.com/FormidableLabs/webpack-dashboard) | A CLI dashboard for your webpack dev server | Webpack |
 | [KUTE.js](http://thednp.github.io/kute.js/index.html) | JS Animation Engine. Source on [Github](https://github.com/thednp/kute.js) | Animation, SVG |
@@ -82,5 +83,5 @@ If you decide to add a new category, please add it to the table of contents as w
 
 | Title / Link  | Description   | Tags         |
 | ------------- | ------------  | -----------: |
-| [Launchaco](launchaco.com/build/) | Instantly generate a responsive, free, landing page  | Site, Template |
+| [Launchaco](http://launchaco.com/build/) | Instantly generate a responsive, free, landing page  | Site, Template |
 
